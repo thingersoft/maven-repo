@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.springframework.ai</groupId>
+  <artifactId>spring-ai-huggingface</artifactId>
+  <versioning>
+    <release>0.8.1-THINGERSOFT</release>
+    <versions>
+      <version>0.8.1-THINGERSOFT</version>
+    </versions>
+    <lastUpdated>20240227230028</lastUpdated>
+  </versioning>
+</metadata>
